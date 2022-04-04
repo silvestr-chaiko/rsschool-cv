@@ -31,6 +31,7 @@ function multiply(a, b) {
     * Qualification engineer
 
 ## Courses
+* The Rolling Scopes JS / FRONT-END. STAGE 0
 * HTML and CSS courses on [code-basics](https://ru.code-basics.com/)
 * JavaScript on [learnjavascript](https://learn.javascript.ru/) (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
