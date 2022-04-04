@@ -1,4 +1,4 @@
-![chaiko](./assets/img/chaiko.jpg)
+![chaiko](./img/chaiko.jpg)
 
 # **Silvestr Chaiko**
 
