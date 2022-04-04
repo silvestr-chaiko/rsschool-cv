@@ -1,4 +1,4 @@
-![chaiko](https://github.com/silvestr-chaiko/rsschool-cv/blob/gh-pages/assets/img/chaiko.jpg)
+![chaiko](./assets/img/chaiko.jpg)
 
 # **Silvestr Chaiko**
 
