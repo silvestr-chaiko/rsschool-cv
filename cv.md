@@ -41,5 +41,6 @@ No experience.
 ## Language
 
 * English (Pre-Intermediate)
+* Belarusian (Native Speaker)
 * Polish (Elementary)
-* Russian (Native Speaker)
+* Russian
